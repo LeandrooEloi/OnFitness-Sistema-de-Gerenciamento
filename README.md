@@ -19,12 +19,14 @@ Cadastro de alunos com informações como nome, endereço, telefone, modalidade,
 Consulta da lista de alunos cadastrados.
 Edição de informações de alunos existentes.
 Exclusão de registros de alunos.
+
 Gerenciamento de Instrutores:
 
 Cadastro de instrutores com informações como nome, endereço, telefone e modalidade de instrução.
 Consulta da lista de instrutores cadastrados.
 Edição de informações de instrutores existentes.
 Exclusão de registros de instrutores.
+
 Controle Financeiro:
 
 Visualização da situação financeira dos alunos (mensalidades pagas ou em atraso).
