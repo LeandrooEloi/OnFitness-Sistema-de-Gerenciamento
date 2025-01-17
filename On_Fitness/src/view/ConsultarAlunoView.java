@@ -30,7 +30,7 @@ public class ConsultarAlunoView extends JFrame {
 
         // Adiciona imagem de fundo
         lblFundo = new JLabel();
-        lblFundo.setIcon(new ImageIcon("C:\\Users\\user\\Downloads\\VAIIII!!!.jpg")); // Substitua pelo caminho da sua imagem
+        lblFundo.setIcon(new ImageIcon("C:\\Users\\user\\Downloads\\VAIIII!!!.jpg"));
         lblFundo.setBounds(0, 0, 900, 500);
         getContentPane().add(lblFundo);
 
