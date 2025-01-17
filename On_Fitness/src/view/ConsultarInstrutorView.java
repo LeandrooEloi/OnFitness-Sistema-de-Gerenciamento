@@ -28,7 +28,7 @@ public class ConsultarInstrutorView extends JFrame {
         // Adicionar imagem de fundo
         JLabel lblBackground = new JLabel();
         lblBackground.setBounds(-12, 0, 812, 400);
-        lblBackground.setIcon(new ImageIcon("C:\\Users\\user\\Downloads\\VAIIII!!!.jpg")); // Substitua "path/to/your/image.jpg" pelo caminho da imagem
+        lblBackground.setIcon(new ImageIcon("C:\\Users\\user\\Downloads\\VAIIII!!!.jpg"));
         getContentPane().add(lblBackground);
 
         // Tabela para exibir os instrutores
