@@ -58,7 +58,7 @@ public class TelaPrincipalView extends JFrame {
                 cadastroInstrutorView.setVisible(true);
             }
         });
-        getContentPane().add(btnCadastrarInstrutor); // Adiciona diretamente ao contentPane
+        getContentPane().add(btnCadastrarInstrutor); 
 
         // Menu Consultar Instrutores
         JButton btnConsultarInstrutor = new JButton("Consultar Instrutores");
@@ -73,7 +73,7 @@ public class TelaPrincipalView extends JFrame {
                 consultarInstrutorView.setVisible(true);
             }
         });
-        getContentPane().add(btnConsultarInstrutor); // Adiciona diretamente ao contentPane
+        getContentPane().add(btnConsultarInstrutor); 
 
         // Menu Financeiro
         JButton btnFinanceiro = new JButton("Financeiro");
@@ -88,7 +88,7 @@ public class TelaPrincipalView extends JFrame {
                 financeiroView.setVisible(true);
             }
         });
-        getContentPane().add(btnFinanceiro); // Adiciona diretamente ao contentPane
+        getContentPane().add(btnFinanceiro); 
         
         JLabel lblNewLabel = new JLabel("");
         lblNewLabel.setBackground(new Color(240, 240, 240));
