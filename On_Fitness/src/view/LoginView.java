@@ -17,7 +17,7 @@ public class LoginView extends JFrame {
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
         setResizable(false);
-        setLayout(null); // Usando layout absoluto para maior controle de design
+        setLayout(null); 
 
         // Cabeçalho
         JLabel lblTitulo = new JLabel("Bem-vindo à OnFitness");
