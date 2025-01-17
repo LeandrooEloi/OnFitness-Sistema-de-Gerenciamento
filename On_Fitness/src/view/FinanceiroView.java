@@ -29,7 +29,7 @@ public class FinanceiroView extends JFrame {
         // Adicionando JLabel para imagem de fundo
         JLabel lblBackground = new JLabel();
         lblBackground.setBounds(0, 0, 800, 400);
-        lblBackground.setIcon(new ImageIcon("C:\\Users\\user\\Downloads\\VAIIII!!!.jpg")); // Substitua pelo caminho da sua imagem
+        lblBackground.setIcon(new ImageIcon("C:\\Users\\user\\Downloads\\VAIIII!!!.jpg")); 
         getContentPane().add(lblBackground);
 
         // Tabela para exibir os alunos
