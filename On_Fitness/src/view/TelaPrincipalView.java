@@ -28,7 +28,7 @@ public class TelaPrincipalView extends JFrame {
                 cadastroAlunoView.setVisible(true);
             }
         });
-        getContentPane().add(btnCadastrarAluno); // Adiciona diretamente ao contentPane
+        getContentPane().add(btnCadastrarAluno); 
 
         // Menu Consultar Aluno
         JButton btnConsultarAluno = new JButton("Consultar Alunos");
@@ -43,7 +43,7 @@ public class TelaPrincipalView extends JFrame {
                 consultarAlunoView.setVisible(true);
             }
         });
-        getContentPane().add(btnConsultarAluno); // Adiciona diretamente ao contentPane
+        getContentPane().add(btnConsultarAluno); 
 
         // Menu Cadastro de Instrutor
         JButton btnCadastrarInstrutor = new JButton("Cadastrar Instrutor");
